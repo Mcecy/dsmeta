@@ -1,7 +1,6 @@
 import Header from "./assets/components/Header"
 import SalesCard from "./assets/components/SalesCard"
 
-import './index.css'
 
 function App() {
   return (
