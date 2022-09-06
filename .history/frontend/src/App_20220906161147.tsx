@@ -5,7 +5,6 @@ function App() {
     <>
       <h1>Olá mundo!</h1>
       <NotificationButton />
-      <NotificationButton />
     </>
   )
 }
